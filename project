@@ -1,0 +1,2 @@
+echo "# My First Git Project" > README.md
+echo "This is a sample project for learning Git." >> README.md
